@@ -25,7 +25,7 @@ caption{
 		background: linear-gradient(red,orange,yellow,blue,violet,indigo);
 }
 p:hover{
-	background-image: url(animation.gif);
+	background-image: url(animation.gif.mp4);
 	background-size: cover;
 	text-transform: uppercase;
 	height: 700px;
